@@ -1,4 +1,16 @@
 # unity
-Primeiro eu idealizei o que iria fazer, depois comecei importando assets de asfalto, predios, arvores e etc. Comecei a fazer a rua e o percurso onde o carro passaria, fiz a calçada e coloquei predios, casas, comercios, arvores e etc, importei um asset de carro, fiz o codigo que fazia as rodas de tras irem pra frente ou para tras e as da frente rotacionar para os lados, coloquei obstaculos na pista usando assets e gameobjects, usei materiais para colorir esses obstaculos e ai o jogo ficou pronto
+INTRODUÇÃO
+O jogo se trata de um carro que tem de passar por obstaculos e chegar ao final da pista
+
+CENARIO
+O cenario é uma cidade com predios, casas e comercios, é uma pista com obstaculos
+<img src="img/cenario.png">
+
+Personagem
+O personagem é um carro da asset store, que tem movimentos de ir pra frente e para tras e rotacionar para os lados
+<img src="img/carro.png">
+
+script
+<img src="img/script.png">
 
 link do projeto pelo google drive: https://drive.google.com/file/d/1W-4famdJ4-5ay6yapyNjUoOFqz6Gt7Q-/view?usp=sharing
