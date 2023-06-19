@@ -46,6 +46,10 @@ os game objects sao usados como obstaculos ao longo do percurso
 
 materials
 os materiais foram usados para colorir os gameobjects
+
+
+
+
 <img src="img/materials.png">
 
 
