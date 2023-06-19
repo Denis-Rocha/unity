@@ -17,7 +17,7 @@ O cenario é uma cidade com predios, casas e comercios, é uma pista com obstacu
 <img src="img/cenario3.png">
 
 
-Personagem
+Personagem <br>
 O personagem é um carro da asset store, que tem movimentos de ir pra frente e para tras e rotacionar para os lados
 
 
@@ -31,7 +31,7 @@ O personagem é um carro da asset store, que tem movimentos de ir pra frente e p
 
 
 
-gameobjects
+gameobjects <br>
 os game objects sao usados como obstaculos ao longo do percurso
 
 
@@ -44,7 +44,7 @@ os game objects sao usados como obstaculos ao longo do percurso
 
 
 
-materials
+materials <br>
 os materiais foram usados para colorir os gameobjects
 
 
@@ -55,7 +55,7 @@ os materiais foram usados para colorir os gameobjects
 
 
 
-script
+script <br>
 no script é feito o movimento das rodas de tras, a rotação para os lados com as rodas da frente e configurado o freio com a tecla espaço
 
 
