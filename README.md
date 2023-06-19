@@ -23,6 +23,7 @@ O personagem é um carro da asset store, que tem movimentos de ir pra frente e p
 
 
 <img src="img/carro.png">
+<img src="img/propcarro.png">
 
 
 
